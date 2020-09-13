@@ -2,7 +2,7 @@
 
 ### Social media:
 
-[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384019.svg" />](https://reddit.com/cyanidesuppository)
+[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384019.svg" />](https://reddit.com/user/cyanidesuppository)
 
 [<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg" />](https://instagram.com/marbleheadpolice)
 
