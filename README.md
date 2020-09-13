@@ -1,9 +1,12 @@
 ### Hey, I'm Jack. ✌
 
-### Connect with me:
+### Social media:
 
-[<img align="left" alt="i0ancy.1337 | Reddit" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384019.svg" />](https://instagram.com/i0ancy.1337)
-[<img align="left" alt="i0ancy.1337 | Email" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/561/561188.svg" />](nothades@protonmail.com)
+[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384019.svg" />](https://reddit.com/cyanidesuppository)
+
+[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg" />](https://instagram.com/marbleheadpolice)
+
+[<img align="left" alt="zov | Tumblr" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111722.svg" />](https://zov.wtf)
 
 <br>
 
