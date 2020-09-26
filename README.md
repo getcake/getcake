@@ -1,4 +1,4 @@
-### Hey, I'm Jack. ✌
+### Hey, I'm Jack.
 
 ### Social media:
 
