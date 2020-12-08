@@ -2,11 +2,11 @@
 
 ### Social media:
 
-[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384019.svg" />](https://reddit.com/user/cyanidesuppository)
+[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />](https://reddit.com/user/cyanidesuppository)
 
-[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/1384/1384031.svg" />](https://instagram.com/marbleheadpolice)
+[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent-light-858x857.png" />](https://instagram.com/marbleheadpolice)
 
-[<img align="left" alt="zov | Tumblr" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111722.svg" />](https://zov.wtf)
+[<img align="left" alt="zov | Tumblr" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/tumblr-icon-logo-png-transparent.png" />](https://zov.wtf)
 
 <br>
 
@@ -26,7 +26,7 @@
 <br>
 
 ### Frameworks I use:
-[<img align="left" alt="Flask" width="23px" src="https://seeklogo.com/images/F/flask-logo-44C507ABB7-seeklogo.com.png" />](https://palletsprojects.com/p/flask)
+[<img align="left" alt="Flask" width="23px" src="https://banner2.cleanpng.com/20180411/lhw/kisspng-flask-python-bottle-web-framework-web-application-flask-5ace6e93eb8cb6.9246575015234781639648.jpg" />](https://palletsprojects.com/p/flask)
 
 [<img align="left" alt="Django" width="55px" src="https://static.djangoproject.com/img/logos/django-logo-negative.png" />](https://www.djangoproject.com)
 
