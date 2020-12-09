@@ -4,7 +4,7 @@
 
 [<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />](https://reddit.com/user/cyanidesuppository)
 
-[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent-light-858x857.png" />](https://instagram.com/marbleheadpolice)
+[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />](https://instagram.com/marbleheadpolice)
 
 [<img align="left" alt="zov | Tumblr" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/tumblr-icon-logo-png-transparent.png" />](https://zov.wtf)
 
