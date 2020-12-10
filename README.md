@@ -17,6 +17,8 @@
 
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />](https://www.python.org)
 
+[<img align="left" alt="Go" width="30px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_LightBlue.svg" />](https://www.golang.org)
+
 [<img align="left" alt="JavaScript" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png" />](https://www.javascript.com)
 
 [<img align="left" alt="HTML" width="23px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
