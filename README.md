@@ -37,9 +37,6 @@
 <br>
 
 ### Goals:
-- Learn React
 - Rewrite old projects in go
-- Be happy 
-
 ---
 <img align="left" alt="i0ancy's Stats" src="https://github-readme-stats.vercel.app/api?username=getcake&show_icons=true&hide_border=true&hide=prs,contribs" />
