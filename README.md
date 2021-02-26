@@ -21,8 +21,6 @@
 
 [<img align="left" alt="JavaScript" width="23px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png" />](https://www.javascript.com)
 
-[<img align="left" alt="HTML" width="23px" src="https://cdn.worldvectorlogo.com/logos/html-5.svg" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
-
 [<img align="left" alt="CSS" width="23px" src="https://3.bp.blogspot.com/-oRSUw_TmO9o/XIb61m88fcI/AAAAAAAAIq0/vnxl2zzsXEQsnHI2fH4GjKu_ZT0urRo4wCK4BGAYYCw/s1600/icon%2Bcss%2B3.png" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 <br>
