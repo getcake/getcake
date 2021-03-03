@@ -2,7 +2,6 @@
 
 ### Social media:
 
-[<img align="left" alt="cyanidesuppository | Reddit" width="22px" src="https://www.vectorico.com/download/social_media/Reddit-Icon.png" />](https://reddit.com/user/cyanidesuppository)
 
 [<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />](https://instagram.com/marbleheadpolice)
 
