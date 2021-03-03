@@ -3,7 +3,6 @@
 ### Social media:
 
 
-[<img align="left" alt="marbleheadpolice | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/132px-Instagram_logo_2016.svg.png" />](https://instagram.com/marbleheadpolice)
 
 [<img align="left" alt="zov | Tumblr" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/tumblr-icon-logo-png-transparent.png" />](https://zov.wtf)
 
