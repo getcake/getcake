@@ -1,10 +1,10 @@
 ### Hey, I'm Jack.
 
-### Social media:
-
+### Connections:
 
 
 [<img align="left" alt="zov | Tumblr" width="22px" src="https://cdn.freebiesupply.com/logos/large/2x/tumblr-icon-logo-png-transparent.png" />](https://zov.wtf)
+[<img align="left" alt="zov | Hackerrank" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/160_Hackerrank_logo_logos-512.png" />](https://www.hackerrank.com/jmcginni04)
 
 <br>
 
